@@ -1,0 +1,5 @@
+[project]
+name = TomPortfolio
+
+[servers.ghpages]
+target = ghpages+https://yahav10/TomPortfolio
